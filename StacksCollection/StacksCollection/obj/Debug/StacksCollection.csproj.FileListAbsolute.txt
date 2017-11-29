@@ -1,0 +1,5 @@
+D:\code n stuff\stackswork\StacksCollection\StacksCollection\bin\Debug\StacksCollection.pdb
+D:\code n stuff\stackswork\StacksCollection\StacksCollection\obj\Debug\StacksCollection.csprojResolveAssemblyReference.cache
+D:\code n stuff\stackswork\StacksCollection\StacksCollection\obj\Debug\StacksCollection.pdb
+D:\code n stuff\stackswork\StacksCollection\StacksCollection\bin\Debug\StacksCollection.exe
+D:\code n stuff\stackswork\StacksCollection\StacksCollection\obj\Debug\StacksCollection.exe
